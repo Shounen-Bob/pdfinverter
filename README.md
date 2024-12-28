@@ -1,7 +1,7 @@
-# PDF Page Inverter
+# PDF Inverter
 ![image](https://github.com/user-attachments/assets/d9789f8c-338e-4550-9108-ceb2690f432e)
 
-PDF Page Inverter は、特に **冊子のスキャン** や **両面スキャン** の際に発生しやすいページの上下逆転問題を簡単に修正するためのツールです。スキャン結果を整理し、読みやすいPDFドキュメントを作成するのに最適です。
+PDF Inverter は、特に **冊子のスキャン** や **両面スキャン** の際に発生しやすいページの上下逆転問題を簡単に修正するためのツールです。
 
 ---
 
